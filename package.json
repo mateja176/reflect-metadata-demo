@@ -1,0 +1,19 @@
+{
+  "name": "reflect-metadata-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "Mateja Petrovic <mateja176@gmail.com> (https://github.com/mateja176)",
+  "license": "MIT",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
